@@ -14,44 +14,78 @@
 5D	five d
 5G	five g
 6G	six g
+365	three sixty five
 7-eleven	seven eleven
 7G	seven g
 8K	eight k
 AAA	triple a
 AC	a c
+AC	ac
 ACL	a c l
+ACL	acl
 ADAS	a das
+ADAS	adas
+ADME	adme
+ADME	a d m e
+AEB	aeb
+AES	aes
+AGX	agx
 AEB	a e b
 AES	a e s
 AGX	a g x
 AI	a i
 AI	ai
-AI	ais
+AIs	ais
+ALU	alu
+AMD	amd
+AlexNet	alex net
 ALU	a l u
 AMD	a m d
 API	a p i
 API	api
+APIs	apis
+AR	a r
+AR	ar
 ARP	a r p
+ARP	arp
+ASAP	asap
 ASAP	a s a p
 ASAP	a sap
+ASMC	asmc
+ASR	asr
 ASMC	a s m c
 ASR	a s r
 ASUS	a sus
 ASUS	asus
 AT&T	a t and t
+AT&T	a t n t
+AT&T	at and t
+AT&T	atnt
+ATM	atm
 ATM	a t m
 AV1	a v one
 AV1	av one
 AVAS	a v a s
 AVAS	a vas
+AVAS	avas
 AVRCP	a v r c p
+AVRCP	avrcp
 AWS	a w s
 AWS	aws
 AlphaFold	alpha fold
+AlphaFold	alphafold
 AstraZeneca	astra zeneca
 AstraZeneca	astrazeneca
 Audio2Face	audio to face
+Audio2Gesture	audio to gesture
+Audio2Emotion	audio to emotion
+Audio2Motion	audio to motion
 Audio2Face	audio too face
+BBC	bbc
+BCP	bcp
+BEV	bev
+BGA	bga
+BGP	bgp
 BBC	b b c
 BCP	b c p
 BEV	b e v
@@ -59,6 +93,8 @@ BGA	b g a
 BGP	b g p
 BIOS	Bios
 BIOS	bios
+BIS	bis
+BSP	bsp
 BIS	b i s
 BSP	b s p
 BasePOD	base pod
@@ -66,12 +102,25 @@ BasePOD	basepod
 Billion-X	billion X
 C#	c sharp
 C++	c plus plus
+CAD	cad
 CAT5	cat five
 CAT5e	cat five e
 CAT6	cat six
 CAT6A	cat six a
 CAT7	cat seven
 CAT8	cat eight
+CBC	cbc
+CCS	ccs
+CCTV	cct v
+CCTV	cc tv
+CDN	cdn
+CEO	ceo
+CDNs	cdns
+CEOs	ceos
+CES	ces
+CFO	cfo
+CFD	cfd
+CFDs	cfds
 CBC	c b c
 CCS	c c s
 CCTV	c c t v
@@ -80,14 +129,28 @@ CDN	c d n
 CEO	c e o
 CES	c e s
 CFO	c f o
+CHAdeMO	chademo
 CHAdeMO	cha demo
 CHAdeMO	chai demo
+CLI	cli
+CMO	cmo
+CMS	cms
+CNN	cnn
 CLI	c l i
 CMO	c m o
 CMS	c m s
 CNN	c n n
 COVID	covid
 COVID-19	covid nineteen
+CPU	cpu
+CPUs	cpus
+CSO	cso
+CSOs	csos
+CSP	csp
+CSPs	csps
+CSS	css
+CV	cv
+CVT	cvt
 CPU	c p u
 CSO	c s o
 CSP	c s p
@@ -99,10 +162,35 @@ CalTech	caltech
 CapEx	cap ex
 CapEx	capex
 ChatGPT	chat g p t
+ChatGPT	chat gpt
+ChatGPT	chatgpt
+GPT	g p t
+GPT	gpt
+CloudXR	cloudxr
+ConnectX	connectx
 CloudXR	cloud x r
 ConnectX	connect x
 Core 2	core two
+CoreWeave	core weave
+CoreWeave	coreweave
 DALI	d a l i
+DB	db
+DC	dc
+DCDB	dcdb
+DDR	ddr
+DDR1	ddr one
+DDR2	ddr two
+DDR3	ddr three
+DDR4	ddr four
+DDR5	ddr five
+DDR1	d d r one
+DDR2	d d r two
+DDR3	d d r three
+DDR4	d d r four
+DDR5	d d r five
+DDoS	ddos
+DGL	dgl
+DGX	dgx
 DB	d b
 DC	d c
 DCDB	d c d b
@@ -118,6 +206,22 @@ DHCP	d h c p
 DLSS	d l s s
 DLSS 2	d l s s two
 DLSS 3	d l s s three
+DGX A100	dgx a hundred	-1.1
+DGX A100	dgxa one hundred	-1.1
+DGX Station	dgx station	-1.1
+DHCP	dhcp
+DLSS	dlss
+DLSS 2	dlss two
+DLSS 3	dlss three
+DNA	dna
+DNN	dnn
+DNS	dns
+DOS	dos
+DP	dp
+DPDT	dpdt
+DPU	dpu
+DPUs	dpus
+DPX	dpx
 DNA	d n a
 DNN	d n n
 DNS	d n s
@@ -126,13 +230,39 @@ DP	d p
 DPDT	d p d t
 DPU	d p u
 DPX	d p x
+DRIVE Hyperion	drive hyperion
+NVIDIA DRIVE	nvidia drive
+DRIVE Orin	drive orin
+DRIVE Atlan	drive atlan
+DRIVE platform	drive platform
+DRIVE Sim	drive sim
+DRIVE Chauffeur	drive chauffeur
+DRIVE Concierge	drive concierge
+DRIVE Thor	drive thor
+DRIVE SoC	drive soc
+DRIVE partners	drive partners
 DeepMind	deep mind
 DeepMind	deepmind
 DeepStream	deep stream
 DeepStream	deepstream
 DevOps	dev ops
+DevOps	devops
 Direct3D	direct three d
 DisplayPort	display port
+DisplayPort	displayport
+EBC	ebc
+EBS	ebs
+EC2	ec two
+ECC	ecc
+ECS	ecs
+EFS	efs
+EGX	egx
+EKS	eks
+ELB	elb
+ELCB	elcb
+EMR	emr
+EOL	eol
+EV	ev
 EBC	e b c
 EBS	e b s
 EC2	e c two
@@ -149,8 +279,16 @@ EV	e v
 Earth-2	earth two
 FIFO	fee foe
 FIFO	fifo
+FourCastNet	four cast net
+FourCastNet	forecast net
 FOMO	foe moe
 FOMO	fomo
+FPS	fps
+FSA	fsa
+FST	fst
+FTP	ftp
+FTPS	ftps
+FX	fx
 FPS	f p s
 FSA	f s a
 FST	f s t
@@ -169,6 +307,18 @@ GSK	g s k
 GTC	g t c
 GTX	g t x	-1.1
 GUI	g u i
+G-SYNC	gsync
+GCC	gcc
+GCP	gcp
+GCS	gcs
+GFN	Gfn
+GPU	gpu
+GPUs	gpus
+GRPC	grpc
+GRU	gru
+GSK	gsk
+GTC	gtc
+GTX	gtx	-1.1
 GUI	gui
 GeForce	geforce
 GeForce NOW	geforce now
@@ -179,7 +329,9 @@ H.265	H two sixty five
 H100	H one hundred
 HDMI	h d m i
 HEVC	h e v c
+HEVC	hevc
 HGX	h g x
+HGX	hgx
 HMD	Hmd
 HPC	h p c
 HQ	h q
@@ -188,11 +340,24 @@ HT	h t
 HTML	h t m l
 HTTP	h t t p
 HTTPS	h t t p s
+HPC	hpc
+HQ	hq
+HSM	hsm
+HT	ht
+HTML	html
+HTTP	http
+HTTPS	https
 HuggingFace	hugging face
 I/O	i o
 ICMP	i c m p
 IEC	i e c
+ICMP	icmp
+IEC	iec
 IEEE	i triple e
+IGMP	igmp
+IGX	igx
+IISc	iisc
+IIT	iit
 IGMP	i g m p
 IGX	i g x
 IISc	i i s c
@@ -202,15 +367,26 @@ IP	i p
 IPSec	i p sec
 ISC	i s c
 ISI	i s i
+IP	ip
+IPSec	ip sec
+IPSec	ipsec
+ISO	iso
+ISC	isc
+ISI	isi
 InfiniBand	inifiband
 IoT	i o t
+IoT	iot
 Isaac SIM	isaac sim
+JSON	json
 JSON	j son
 JavaScript	java script
 JavaScript	javascript
 KVM	k v m
+KVM	kvm
 LFP	lee fei po
 LFP	life po
+LFP	l f p
+LFP	lfp
 LGA	l g a	-1.1
 LLC	l l c
 LLM	l l m
@@ -219,6 +395,14 @@ LLP	l l p
 LSTM	l s t m
 LT	l t
 LTT	l t t
+LGA	lga	-1.1
+LLC	llc
+LLM	llm
+LLMs	llms
+LLP	llp
+LSTM	lstm
+LT	lt
+LTT	ltt
 LinkedIn	linked in
 LinkedIn	linkedin
 MB	m b
@@ -230,7 +414,19 @@ MFA	m f a
 MIT	m i t
 ML	m l
 MLPerf	m l perf
+MB	mb
+MCB	mcb
+MCCB	mccb
+MCP	mcp
+MDM	mdm
+MFA	mfa
+MIT	mit
+ML	ml
+MLPerf	ml perf
+MLPerf	mlperf
 MONAI	monai
+MWC	mwc
+MXNet	mxnet
 MWC	m w c
 MXNet	m x net
 MacBook	mac book
@@ -239,6 +435,13 @@ MacBook Pro	mac book pro
 Max-Q	max q
 Million-X	million x
 MoCap	mo cap
+MoCap	mocap
+NC	nc
+NGC	ngc
+NLP	nlp
+NLU	nlu
+NMC	nmc
+NTP	ntp
 NC	n c
 NGC	n g c
 NLP	n l p
@@ -248,53 +451,92 @@ NO	n o
 NTP	n t p
 NVDec	n v dec
 NVDec	n v deck
+NVEnc	nvenc
 NVEnc	n v enc
 NVEnc	n v inc
 NVEnc	n v ink
 NVMe	n v m e
 Ni-CD	knee cad
+Ni-CD	nicad
+NiMH	nimh
 NiMH	n i m h
 NoSQL	no s q l
+NoSQL	nosql
 NoSQL	no sql
-Nvidia A100	nvidia a hundred
-Nvidia A100	nvidia a one hundred
-Nvidia A30	nvidia a thirty
-Nvidia A40	nvidia a forty
+NVIDIA 	nvidia
+NVIDIA-powered	nvidia powered
+NVIDIA-accelerated	nvidia accelerated
+NVIDIA A100	nvidia a hundred
+NVIDIA A100	nvidia a one hundred
+NVIDIA A10	nvidia a ten
+NVIDIA A20	nvidia a twenty
+NVIDIA A30	nvidia a thirty
+NVIDIA A40	nvidia a forty
+OCI	oci
+OEM	oem
+OEMs	oems
+OLTC	oltc
+OLTP	oltp
 OCI	o c i
 OEM	o e m
 OEMs	o e ms
 OLTC	o l t c
 OLTP	o l t p
+Omniverse	omniverse
+Omniverse ACE	omniverse ace
+BlueField	bluefield
+BlueFIeld-2	bluefield two
+BlueFIeld-3	bluefield three
 ONNX	o n n x
 OVX	o v x
+ONNX	onnx
+OVX	ovx
 OpEx	op ex
 OpEx	opex
+OpenAI	open a i
+OpenAI	open ai
 OpenCL	open c l
 OpenGL	open g l
 PCI	p c i
 PCIe	p c i e	-1.1
+PCI	pci
+PCIe	pcie	-1.1
 PDF	p d f
 PHEV	p h e v
+PDF	pdf
+PHEV	phev
 POP3	pop three
 PSO	p s o
+PSO	pso
 Photoshop	photo shop
 PhysX	fizz ex
 PhysX	fizz x
 PhysX	phys ex
 PhysX	phys x
+PhysX	physx
+pre-trained	pre trained
+pre-train	pre train
 PlayStation	play station
+PlayStation	playstation
 Premiere Pro	premiere pro
 ProVis	pro vis
 ProVis	provis
 PyG	pi g
 PyG	py g
 PyTorch	pi torch
+PyTorch	pytorch
 QODA	q o d a
 QOS	q o s
 RCBO	r c b o
 RCCB	r c c b
 RDS	r d s
 RFP	r f p
+QODA	qoda
+QOS	qos
+RCBO	rcbo
+RCCB	rccb
+RDS	rds
+RFP	rfp
 RISC	risc
 RL	r l
 RNN	r n n
@@ -302,21 +544,43 @@ ROI	r o i
 RSS	r s s
 RT	r t
 RTP	r t p
+RL	rl
+RNN	rnn
+ROI	roi
+RSS	rss
+RT	rt
+RTP	rtp
+Reflex ON	reflex on
+RTX	rtx
 RTX	r t x	-1.1
 RTX ON	r t x on
 RTX Off	r t x off
+RTX	rtx	-1.1
+RTX ON	rtx on
+RTX Off	rtx off
 RacerX	racer x
+RacerX	racerx
 Ryzen 2	rye zen two
 Ryzen 3	rye zen three
 Ryzen 5	rye zen five
 Ryzen 7	rye zen seven
 Ryzen 9	rye zen nine
+Ryzen 2	ryzen two
+Ryzen 3	ryzen three
+Ryzen 5	ryzen five
+Ryzen 7	ryzen seven
+Ryzen 9	ryzen nine
 S&P	s and p
+S&P	s n p
 S3	s three
 SAE	s a e
 SDK	s d k
 SEO	s e o
 SFU	s f u
+SAE	sae
+SDK	sdk
+SEO	seo
+SFU	sfu
 SHIELD TV	shield tv
 SIGGRAPH	sig graph
 SIGGRAPH	siggraph
@@ -337,14 +601,48 @@ SSO	s s o
 SSR	s s r
 SUV	s u v
 SWG	s w g
+SXM	s x m
+SXM	sxm
+SMPS	smps
+SMTP	smtp
+SNMP	snmp
+SNS	sns
+SOL	sol
+SPDT	spdt
+SPN	spn
+SPST	spst
+SQL	sql
+SQS	sqs
+SSD	ssd
+SSH	ssh
+SSL	ssl
+SSO	sso
+SSR	ssr
+SUV	suv
+SWG	swg
 SaaS	saas
 ServiceNow	service now
 SuperCloud	super cloud
 SuperPOD	super pod
+ServiceNow	servicenow
+SuperCloud	supercloud
+SuperPOD	superpod
 TCP	t c p
 TCP/IP	t c p i p
 TFTP	t f t p
+TCP	tcp
+TCP/IP	tcpip
+TFTP	tftp
 TJ	t j
+TJ	tj
+TOS 	tos
+TPM	tpm
+TPMS	tpms
+TPN	tpn
+TSL	tsl
+TSMC	tsmc
+TSMC's	tsmc's
+TTS 	tts
 TOS 	t o s
 TPM	t p m
 TPMS	t p m s
@@ -353,7 +651,9 @@ TSL	t s l
 TSMC	t s m c
 TTS 	t t s
 Telnet	tell net
+Telnet	telnet
 TensorRT	tensor r t
+TensorRT	tensorrt
 Tick-Tock	tick tock
 TikTok app	tick tock app
 TikTok is	tick tock is
@@ -368,8 +668,31 @@ VDI	v d i
 VDPAU	v d p a u
 VDPAU	v d paw
 VDPAU	v d pow
+UDP	udp
+UEFI	uefi
+UFI	ufi
+UPS	ups
+USB	usb
+VAAPI	vaapi
+VDI	vdi
+VDPAU	vdpau
+OpenVDB	openvdb
+OpenVDB	open vdb
+OpenVDB	open v d b
+VDB	v d b
+VDB	vdb
 VFD	v f d
+VFD	vfd
 VLAN	v lan
+VLAN	vlan
+VP	vp
+VPN	vpn
+VPF	vpf
+Vcc	vcc
+Vdd	vdd
+VoIP	voip
+WFSA	wfsa
+WFST	wfst
 VP	v p
 VPN	v p n
 Vcc	v c c
@@ -379,39 +702,115 @@ WFSA	w f s a
 WFST	w f s t
 Wi-Fi	wi fi
 Wi-Fi	wifi
+XFX	xfx
+XML	xml
 XFX	x f x
 XFX	x fx
 XML	x m l
 Zen 2	zen two
 Zen 3	zen three
 Zen 4	zen four
-c#	c sharp
-c++	c plus plus
 cuBLAS	cue blah
 cuBLAS	cue blahs
 cuBLAS	q blahs
+cuBLAS	cublas
 cuDNN	c u d n n
+cuDNN	cudnn
 cuDNN	cue d n n
 cuDNN	q d n n
 cuOpt	cue opt
 cuOpt	q opt
+cuOpt	cueopt
 cuQuantum	cue quantum
+cuQuantum	cuequantum
 cuQuantum	q quantum
 dr.	doctor
 e.g.	for example
 es3	e s three
 ext4	e x t four
+es3	es three
+ext4	ext four
 i3	i three
 i5	i five
 i7	i seven
 i9	i nine
 iOS	ios
+iOS	i o s
 iTPMS	i t p m s
+iTPMS	itpms
 mr.	mister
 mrs.	misses
 on TikTok	on tick tock
 sFTP	s f t p
+sFTP	sftp
 st.	saint
 x1	x one
 x2	x two
 x8	x eight
+x8	x sixteen
+x1	times one
+x2	times two
+x8	times eight
+x8	times sixteen
+SIGGRAPH	siggraph
+Computex	computex
+GauGAN360	gau gan three sixty
+GauGAN2	gau gan two
+L1	l one
+L2	l two
+L3	l three
+L4	l four
+L5	l five
+10-Series	ten series
+20-Series	twenty series
+30-Series	thirty series
+40-Series	forty series
+DNAnexus	dna nexus
+FormBio	form bio
+GPU-Quantum	gpu quantum
+ORCA Computing	orca computing
+NanoVDB	Nano vdb
+OmniLive	omnilive
+AI-driven	ai driven
+NVIDIANs	nvidians
+GauGAN	gau gan
+RoboTaxi	robo taxi
+RTX-powered	rtx powered
+CUDA-compatible	cuda compatible
+CUDA-accelerated	cuda accelerated
+LLMlarge	llm large
+ChatGPT-like	chatgpt like
+BioNeMo	bio nemo
+BioNeMo	bionemo
+NeMo	nemo
+VertexAI	vertex ai
+GeForce-class	geforce class
+OneDrive	onedrive
+SharePoint	sharepoint
+AI-of-Things	ai of things
+AI-capable	ai capable
+AT&T	at and t
+R&D	r and d
+M&E	m and e
+AT&T’s	AT and T’s
+Kore.ai	kore dot ai
+nvidia.com	nvidia dot com
+nvidia.com/omniverse	nvidia dot com slash omniverse
+CUDA	cuda
+ETA	eta
+GI	gi
+EUV	euv
+ASML	asml
+StyleGAN 	stylegan
+GAN	gan
+NGC	ngc
+LiDAR	lidar
+GTX-580	gtx five eighty
+NVIDIA cuOpt	nvidia co opt
+NVIDIA cuOpt	nvidia co op
+RPC	rpc
+WebRPC	web rpc
+RDMA	rdma
+cuQuantum	Coup Quantum
+Bionano	bio nano
+PacBio	pac bio

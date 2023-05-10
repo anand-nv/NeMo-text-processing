@@ -80,7 +80,7 @@ class ClassifyFst(GraphFst):
             decimal_graph = decimal.fst
 
             measure_graph = MeasureFst(cardinal=cardinal, decimal=decimal, input_case=input_case).fst
-            date_graph = DateFst(ordinal=ordinal, input_case=input_case).fst
+            date_graph = DateFst(ordinal=OrdinalFst(cardinal, input_case=input_case, is_date=True), input_case=input_case).fst
             word_graph = WordFst().fst
             time_graph = TimeFst(input_case=input_case).fst
             money_graph = MoneyFst(cardinal=cardinal, decimal=decimal, input_case=input_case).fst

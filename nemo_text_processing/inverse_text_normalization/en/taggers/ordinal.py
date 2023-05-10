@@ -35,10 +35,12 @@ class OrdinalFst(GraphFst):
         input_case: accepting either "lower_cased" or "cased" input.
     """
 
-    def __init__(self, cardinal: GraphFst, input_case: str = INPUT_LOWER_CASED):
+    def __init__(self, cardinal: GraphFst, input_case: str = INPUT_LOWER_CASED, is_date:bool = False):
         super().__init__(name="ordinal", kind="classify")
-
-        cardinal_graph = cardinal.graph_no_exception
+        if is_date:
+            cardinal_graph = cardinal.graph_no_exception
+        else:
+            cardinal_graph = cardinal.graph
         graph_digit = pynini.string_file(get_abs_path("data/ordinals/digit.tsv"))
         graph_teens = pynini.string_file(get_abs_path("data/ordinals/teen.tsv"))
         graph = pynini.closure(NEMO_CHAR) + pynini.union(
