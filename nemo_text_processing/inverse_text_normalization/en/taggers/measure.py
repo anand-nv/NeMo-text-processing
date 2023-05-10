@@ -96,7 +96,7 @@ class MeasureFst(GraphFst):
             + pynutil.insert("\"")
             + pynutil.insert(" }")
             + delete_extra_space
-            + (unit_plural | unit_singular)
+            + (unit_plural | pynutil.add_weight(unit_singular,1.001))
         )
         subgraph_cardinal |= (
             pynutil.insert("cardinal { ")
