@@ -110,7 +110,8 @@ def _get_year_graph(input_case: str):
 
     year_graph = (
         # 20 19, 40 12, 2012 - assuming no limit on the year
-        (graph_teen + delete_space + (graph_ties | graph_digits | graph_teen))
+        pynutil.add_weight((graph_digit + delete_space + (graph_ties | graph_teen)),1)
+        | (graph_teen + delete_space + (graph_ties | graph_digits | graph_teen))
         | (graph_ties + delete_space + (graph_ties | graph_digits | graph_teen))
         | graph_thousands
         | ((graph_digit + delete_space + (graph_ties | graph_digits | graph_teen)) + graph_ad_bc)

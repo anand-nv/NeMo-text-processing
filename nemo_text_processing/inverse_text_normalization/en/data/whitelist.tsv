@@ -343,6 +343,7 @@ H.265	H two six five
 H.265	H two sixty five
 H100	H one hundred
 HDMI	h d m i
+HDMI	hdmi
 HEVC	h e v c
 HEVC	hevc
 HGX	h g x
@@ -367,6 +368,7 @@ HTML	html
 HTTP	http
 HTTPS	https
 HuggingFace	hugging face
+HuggingFace	huggingface
 I/O	i o
 ICMP	i c m p
 IEC	i e c
@@ -392,7 +394,7 @@ IPSec	ipsec
 ISO	iso
 ISC	isc
 ISI	isi
-InfiniBand	inifiband
+InfiniBand	infiniband
 IoT	i o t
 IoT	iot
 Isaac SIM	isaac sim
