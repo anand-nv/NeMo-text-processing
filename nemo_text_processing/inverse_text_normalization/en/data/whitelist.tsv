@@ -74,6 +74,7 @@ AWS	a w s
 AWS	aws
 AlphaFold	alpha fold
 AlphaFold	alphafold
+AlphaGo	alpha go
 AstraZeneca	astra zeneca
 AstraZeneca	astrazeneca
 Audio2Face	audio to face
@@ -91,6 +92,7 @@ BCP	b c p
 BEV	b e v
 BGA	b g a
 BGP	b g p
+BYD	byd
 BIOS	Bios
 BIOS	bios
 BIS	bis
@@ -166,6 +168,12 @@ ChatGPT	chat gpt
 ChatGPT	chatgpt
 GPT	g p t
 GPT	gpt
+GPT-2	g p t two
+GPT-2	gpt two
+GPT-3	g p t three
+GPT-3	gpt three
+GPT-4	g p t four
+GPT-4	gpt four
 CloudXR	cloudxr
 ConnectX	connectx
 CloudXR	cloud x r
@@ -311,6 +319,10 @@ G-SYNC	gsync
 GCC	gcc
 GCP	gcp
 GCS	gcs
+GDC	gdc
+GDC	gd c
+GDC's	gdc's
+GDC's	gd c's
 GFN	Gfn
 GPU	gpu
 GPUs	gpus
@@ -320,8 +332,11 @@ GSK	gsk
 GTC	gtc
 GTX	gtx	-1.1
 GUI	gui
+GDN	gdn
+GeForce	ge force
 GeForce	geforce
 GeForce NOW	geforce now
+GeForce NOW	ge force now
 H.264	H two six four
 H.264	H two sixty four
 H.265	H two six five
@@ -334,6 +349,10 @@ HGX	h g x
 HGX	hgx
 HMD	Hmd
 HPC	h p c
+HPC	hpc
+HPC	hp c
+HPC's	hp c's
+HPC's	hpc's
 HQ	h q
 HSM	h s m
 HT	h t
@@ -433,6 +452,7 @@ MacBook	mac book
 MacBook	macbook
 MacBook Pro	mac book pro
 Max-Q	max q
+Max-Q	maxq
 Million-X	million x
 MoCap	mo cap
 MoCap	mocap
@@ -650,6 +670,7 @@ TPN	t p n
 TSL	t s l
 TSMC	t s m c
 TTS 	t t s
+TX2	tx two
 Telnet	tell net
 Telnet	telnet
 TensorRT	tensor r t
@@ -671,7 +692,6 @@ VDPAU	v d pow
 UDP	udp
 UEFI	uefi
 UFI	ufi
-UPS	ups
 USB	usb
 VAAPI	vaapi
 VDI	vdi
