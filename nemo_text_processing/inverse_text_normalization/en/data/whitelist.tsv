@@ -342,6 +342,7 @@ H.264	H two sixty four
 H.265	H two six five
 H.265	H two sixty five
 H100	H one hundred
+H100	h one hundred
 HDMI	h d m i
 HDMI	hdmi
 HEVC	h e v c
@@ -830,6 +831,8 @@ LiDAR	lidar
 GTX-580	gtx five eighty
 NVIDIA cuOpt	nvidia co opt
 NVIDIA cuOpt	nvidia co op
+PC	p c
+PC	pc
 RPC	rpc
 WebRPC	web rpc
 RDMA	rdma
